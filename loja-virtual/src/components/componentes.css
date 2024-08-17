@@ -1,0 +1,68 @@
+.countainer {
+  justify-content: center;
+  align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    background-image: linear-gradient(to right, rgb(185, 0, 0) , black);
+  }
+
+  .countainer2 {
+    position: relative;
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(0, 0, 0) , rgb(184, 0, 0));
+    height: 350px;
+    width: 400px;
+    top: 200px;
+    left: 40%;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, );
+  }
+  
+#play {
+  position: absolute;
+  top: 280px;
+  left: 170px;
+}
+
+.pageLogin {
+  position: absolute;
+  top: 270px;
+  right: 180px;
+  background-color: rgb(255, 255, 255);
+  color: black;
+  border-radius: 5px;
+  height: 25px;
+  width: 40px;
+
+}
+
+#inputlupa {
+  position: absolute;
+  padding-left: 100px;
+  padding-right: 100px;
+  border-radius: 15px;
+  text-align: center;
+  top: 16px;
+  left: 40%;
+}
+
+.produto1 {
+  position: relative;
+  left: 2%;
+  top: 10%;
+  background-color: rgba(180, 49, 31, 0.76);
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+}
+
+#image{
+  top: 20px;
+  position: relative;
+  border-radius: 30px;
+  border-color: rgb(0, 0, 0);
+  left: 24%;
+  height: 150px;
+  width: 150px;
+}
